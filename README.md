@@ -1,2 +1,1 @@
-# cncqsx3.github.io
-github.io
+以下内容与 K8S_Guide.md 相同，请参考该文件。
